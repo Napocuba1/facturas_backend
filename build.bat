@@ -1,0 +1,1 @@
+./mvnw.cmd package -Dspring-boot.run.arguments="--APP_DB_HOSTNAME=sql3.freemysqlhosting.net --APP_DB_DATABASE=sql3452110 --APP_DB_USER=sql3452110 --APP_DB_PASS=PXvxWqcA23"
